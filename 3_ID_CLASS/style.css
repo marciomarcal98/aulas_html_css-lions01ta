@@ -1,0 +1,24 @@
+#titulo {
+    color: cornflowerblue;
+}
+
+.verde {
+    color: green;
+}
+
+h1 {
+    color: red;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+p {
+    color: green;
+}
+
+h1 {
+    color: blue;
+}
+
+.titulos-grandes {
+    font-size: 50px;
+}
